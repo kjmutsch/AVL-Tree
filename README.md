@@ -5,7 +5,7 @@ An AVL Tree created in a school project along with my partner. The DuplicateKeyE
 This program was created on the IDE Eclipse. To run the program yourself I recommend this IDE or NetBeans for Java.
 
 ## Classes in the Program
-  ### AVL Tree: The AVLTree class will make use of the implemented BSTNode<K> class down below and
+  ### AVL Tree: <K>The AVLTree class makes use of the implemented BSTNode<K> class down below and
    simulates the functionality of a simple AVL Tree using a Binary Search Tree
    Nodes.
 
