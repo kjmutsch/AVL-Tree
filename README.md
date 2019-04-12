@@ -1,11 +1,11 @@
 # AVL-Tree
 An AVL Tree created in a school project along with my partner. The DuplicateKeyException was a unique exception that we designed for when the AVL Tree has duplicate nodes.
 
-### Eclipse
+## Eclipse
 This program was created on the IDE Eclipse. To run the program yourself I recommend this IDE or NetBeans for Java.
 
-### Classes in the Program
-  # AVL Tree:
+## Classes in the Program
+  ### AVL Tree:
 
 ## Acknowledgments
 
