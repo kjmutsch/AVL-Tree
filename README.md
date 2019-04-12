@@ -9,6 +9,9 @@ This program was created on the IDE Eclipse. To run the program yourself I recom
    The AVLTree class makes use of the implemented BSTNode<K> class down below and
    simulates the functionality of a simple AVL Tree using a Binary Search Tree
    Nodes.
+  
+  ### AVLTreeADT:
+  An interface provided to me by two of the Computer Science professors.
 
 ## Acknowledgments
 
